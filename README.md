@@ -14,3 +14,10 @@ Ideas for further analysis:
 * Explore top TV show data and visualise this in Power BI 
 * Visualise the top genres 
 * Obtain data for other streaming platforms and consider which platform has the most highly rated shows and movies available. 
+
+Further work carried out in Excel following the above analysis: 
+
+* imported credits data as a second sheet as used VLOOKUP function to show the imdb score from sheet 1 against the character information in the credits sheet
+* used COUNTIF function to calculate count of type (i.e. the number of movies and the number of shows in the data)
+* used pivot tables 
+
