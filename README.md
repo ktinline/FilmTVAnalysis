@@ -6,7 +6,7 @@ I first used the titles.csv file and deleted rows that I was not interested in a
 
 I created a new Excel file using filtes to show the Top 10 movies (excluding TV shows) based on imdb score and produced a bar chart showing this data. 
 
-I then imported the titles_blanks_and_unwanted_columns_removed.csv file into MySQL workbench and carried out analysis there - shown in my comments in the .sql file. 
+I then imported the titles_blanks_and_unwanted_columns_removed.csv file into MySQL workbench and carried out analysis there - shown in my comments in the .sql files. 
 
 I then visualised the data in Power BI. 
 
